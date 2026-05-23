@@ -1,1 +1,2 @@
 # cybersecurity-portfolio
+# I became interested in cybersecurity because I genuinely want to help people. I was introduced to IT and cyber while serving in the military, and I quickly developed a passion for the field. As I learned more about cybersecurity and the impact it can have on people’s lives, I realized it was the career path I wanted to pursue. I want to help protect individuals and organizations from those with malicious intent in the cyber realm, especially those who may not be able to protect themselves.
